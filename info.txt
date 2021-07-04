@@ -1,0 +1,4 @@
+name = SUPERHOT Mod
+author = Snazzah
+description = SUPERHOT mechanics in Teardown. Includes weapons from SUPERHOT such as the pistol, shotgun and rifle.
+tags = Gameplay, Tool

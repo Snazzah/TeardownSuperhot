@@ -1,0 +1,7 @@
+SUPERHOT mechanics in Teardown.
+Time moves when you move. Includes weapons from SUPERHOT such as the pistol, shotgun and rifle.
+
+[h1]Information[/h1]
+Open the mod's options to toggle timescaling and weapons.
+The mod is automatically disabled in the About level.
+Contribute to the mod here: https://github.com/Snazzah/TeardownSuperhot
