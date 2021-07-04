@@ -3,5 +3,5 @@ Time moves when you move. Includes weapons from SUPERHOT such as the pistol, sho
 
 [h1]Information[/h1]
 Open the mod's options to toggle timescaling and weapons.
-The mod is automatically disabled in the About level.
+The mod is automatically disabled in the About level and while interacting with the map and/or the terminal at the hub.
 Contribute to the mod here: https://github.com/Snazzah/TeardownSuperhot
